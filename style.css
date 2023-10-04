@@ -1,0 +1,30 @@
+.container {
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 20px; 
+}
+
+#listetaches {
+    list-style: none;
+    padding: 0;
+}
+
+#nouvelletache {
+    padding: 8px;
+    margin-right: 8px; 
+}
+
+button {
+    padding: 8px;
+    background-color: #3498db; 
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #2980b9; 
+}
